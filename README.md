@@ -34,7 +34,7 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
  - pkg install python3 --upgrade
 
 // Clonar este repositorio:
- - git clone https://github.com/mattisepcito/Generador-
+ - git clone https://github.com/SatoruGoy0/Generador-
 
 -// Ingresar al proyecto
  - cd Generador-/
